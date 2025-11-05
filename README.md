@@ -25,9 +25,8 @@ playwright install-deps
 ### 1. Create urls.txt file
 
 ```text
-https://example.com/comic1 | My Favorite Comic
-https://example.com/comic2 | Another Comic
-https://example.com/comic3
+https://marmota.me/comic/batman-damned-2018/batman-damned-1/|Batman: Dammed #1
+https://marmota.me/comic/nightwing-2016/nightwing-65-1-anual-2/|Nightwing 2016
 ```
 
 ### 2. Run
