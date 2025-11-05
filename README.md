@@ -1,6 +1,10 @@
 # WebComic2PDF
 
-Simple script to download comics from Marmota Comics and convert them to PDF.
+Simple script to download comics from Marmota Comics and convert them to PDF for offline reading.
+
+## 💡 The Problem
+
+I wanted to read some comics on my Kindle or iPad during a plane trip, but Marmota Comic website don't offer a download option. This Python script solves that problem by scraping the comics and converting them into portable PDFs that you can read anywhere, even without internet.
 
 ## 🚀 Installation
 
