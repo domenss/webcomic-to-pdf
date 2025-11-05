@@ -1,5 +1,7 @@
 # WebComic2PDF
 
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+
 Simple script to download comics from Marmota Comics and convert them to PDF for offline reading.
 
 ## 💡 The Problem
